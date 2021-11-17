@@ -1,0 +1,23 @@
+:root {
+    --black-color: #000;
+    --white-color: #fff;
+    --primary-color: #333333;
+    --text-color: #D1D1D1;
+    --hover-color: #C80000;
+}
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+.icon-facebook {
+    color: #1877F2;
+}
+.icon-twitter {
+    color: #119AFB;
+}
